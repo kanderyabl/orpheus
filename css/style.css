@@ -1949,6 +1949,7 @@ h6 {
         -ms-flex-pack: center;
             justify-content: center;
     background-position: center;
+    background: url("../img/contribution/threeDstatue.png") center center no-repeat #000000;
   }
 
   .threeDstatue__content {
@@ -1961,7 +1962,6 @@ h6 {
             justify-content: center;
     padding: 5.875rem 0rem 5.375rem;
     background-position: center;
-    background: url("../img/contribution/threeDstatue.png") center center no-repeat #000000;
   }
 
   .avatarStatue_light {
